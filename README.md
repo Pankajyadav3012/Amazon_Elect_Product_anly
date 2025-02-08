@@ -9,7 +9,7 @@ This project automates the extraction of Amazon product data (specifically Elect
 - **`Cleaning_code.ipynb`** – VScode for cleaning and preprocessing the scraped data, handling missing values, and standardizing formats. 
 - **`amazon_dash_powerbi_.pbix`** – This is Power BI dashboard for analyzing and visualizing the extracted data, with interactive charts and graphs showcasing trends and insights.
 
-## 🛠️ Technologies Used  
+## 🛠️ Tools Used
 - **Python** (Selenium, Pandas) for data extraction & processing  
 - **VSCODE** for cleaning and transformation  
 - **Power BI** for visualization  
